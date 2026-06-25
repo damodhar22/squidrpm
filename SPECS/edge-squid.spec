@@ -302,7 +302,7 @@ fi
 
 
 %changelog
-* Wed Apr 23 2026 Damodhar Kavali <dkavali@salesforce.com> - 7:7.3-7
+* Thu Apr 23 2026 Damodhar Kavali <dkavali@salesforce.com> - 7:7.3-7
 - Add tunnel close-reason logging: new %tunnel::>close_source and
   %tunnel::<close_source access log tokens record which side closed
   each TCP tunnel and why (eof, rst, error, timeout, cascade,
